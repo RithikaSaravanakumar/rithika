@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 hi
 fg
 df
+=======
+hi
+hello
+>>>>>>> 28bb7be6cddf1ab302fcae069a6b06d42b5f98d6
